@@ -1,0 +1,28 @@
+{
+  "name": "auv",
+  "version": "1.0.0",
+  "description": "AudioVideo stream in js",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RepComm/auv.git"
+  },
+  "keywords": [
+    "audio",
+    "video",
+    "stream",
+    "js"
+  ],
+  "author": "Jonathan Crowder",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/RepComm/auv/issues"
+  },
+  "homepage": "https://github.com/RepComm/auv#readme",
+  "dependencies": {
+    "ws": "^6.1.0"
+  }
+}
